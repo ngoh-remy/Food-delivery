@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+ .navbar img{
+    width: 10vh;
+    height: 10vh;
+ }
+ .navbar .logo{
+    width: max( 8%,80px);
+ }
+ 
+ /* .navbar .profile{
+    width: 40px;
+ } */
